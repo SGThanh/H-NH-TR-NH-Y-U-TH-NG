@@ -18,7 +18,7 @@ import { TimelinePhotoManagerModal } from './components/TimelinePhotoManagerModa
 import { GitHubDeployModal } from './components/GitHubDeployModal';
 import { Github } from 'lucide-react';
 
-const STORAGE_KEY_IMAGES = 'danthanh_ngocyen_custom_images_v2';
+const STORAGE_KEY_IMAGES = 'danthanh_ngocyen_custom_images_v3';
 const STORAGE_KEY_LETTER = 'danthanh_ngocyen_love_letter_v2';
 
 export default function App() {

@@ -1,0 +1,6 @@
+{
+  "name": "Đan Thanh & Ngọc Yến — Hành Trình Yêu Thương",
+  "description": "Website kỷ niệm tình yêu kết hợp hài hòa giữa nét vương giả cung đình Việt Nam (Cổ Phục Nhật Bình) và giao diện hiện đại tinh tế, ghi dấu hành trình từ ngày đầu gặp gỡ đến ngày chung đôi của Trần Đan Thanh và Đồng Thị Ngọc Yến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
